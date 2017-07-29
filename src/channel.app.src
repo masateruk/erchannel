@@ -1,0 +1,15 @@
+{application, channel,
+ [{description, "Erlang channel library"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Masateru Kawaguchi"]},
+  {licenses, ["MIT"]},
+  {links, []}
+ ]}.
