@@ -11,5 +11,5 @@
 
   {maintainers, ["Masateru Kawaguchi"]},
   {licenses, ["MIT"]},
-  {links, []}
+  {links, [{"GitHub", "https://github.com/masateruk/erchannel"}]}
  ]}.
