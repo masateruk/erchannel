@@ -15,7 +15,7 @@ synchronized communication is simple.
 Asynchronized communication brings a system a lot of states. It is difficult
 to develop a system using asynchronized communication. On the other hand, 
 on the system using synchoronized communication, a sender can expect that
-a receiver process has recieved a message when sending it is done.
+a receiver process has received a message when sending it is done.
 It helps to make your system simple. 
 
 And you can use some theories like CSP to verify your system based on
@@ -36,5 +36,6 @@ Build
 ToDo
 -----
 
-* Gaurd
-* Choise
+* Guard
+* Choice
+
